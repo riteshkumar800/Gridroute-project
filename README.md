@@ -14,7 +14,7 @@
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend (Netlify): [https://gridmaproute-optimizer.netlify.app](https://gridmaproute-optimizer.netlify.app)
+- 🌐 Frontend (Netlify): [https://gridmaproute-optimizer.netlify.app] (https://gridmaproute-optimizer.netlify.app)
 - 🔧 Backend (Render): [https://gridroute-project.onrender.com/docs](https://gridroute-project.onrender.com/docs)
 
 ---
