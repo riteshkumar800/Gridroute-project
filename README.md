@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend (Netlify): [https://gridmaproute-optimizer.netlify.app](# 🗺️ GridRoute Optimizer
+- 🌐 Frontend (Netlify): https://gridmaproute-optimizer.netlify.app   (# 🗺️ GridRoute Optimizer
 
 **GridRoute Optimizer** is a full-stack web application that allows users to input delivery stops on a grid and computes the most optimized route using Manhattan distance. Built for logistics/delivery use-cases, it's a mini TSP (Traveling Salesman Problem) visualizer.
 
