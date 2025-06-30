@@ -1,0 +1,4 @@
+[build]
+  base = "gridroute-frontend"
+  command = "npm run build"
+  publish = "dist"
