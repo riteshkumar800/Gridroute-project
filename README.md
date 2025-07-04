@@ -56,9 +56,10 @@
 
 ---
 
-## 🧠 Features
 
-- 📍 Add delivery coordinates manually or by clicking on the map.
+**HOW TO USE:->
+- 📍 Add delivery coordinates manually or by clicking on the map(first click on "switch to map view) , then click optimize route , wait for some time ,u will see your optimize route,then click on switch on grid view u will see what path to follow to reach destination(and return on starting) in less distance travelled.
+## 🧠 Features
 - 🧮 Optimizes delivery route using Manhattan distance.
 - 🔁 Option to return to the starting point.
 - 🗺️ Visualizes the route live on a grid with arrows.
@@ -79,7 +80,7 @@
 
 ## ⚙️ How It Works
 
-1. User enters grid size and delivery stop coordinates.
+1. User enters grid size and delivery stop coordinates or by clicking on the map directly.
 2. App calculates the optimal order of visiting the stops.
 3. The result is shown on a dynamic grid with start ➝ stop ➝ end animation.
 4. Total distance is shown below.
